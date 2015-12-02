@@ -1,0 +1,29 @@
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\bin\Debug\15.exe
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\bin\Debug\15.pdb
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\bin\Debug\15.xml
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\_15.Form1.resources
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\_15.Resources.resources
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\15.exe
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\15.xml
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\15\15\obj\x86\Debug\15.pdb
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.exe
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.xml
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\15.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\bin\Debug\formula consumo.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\bin\Debug\formula consumo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\bin\Debug\formula consumo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\_15.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\_15.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\formula consumo.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\formula consumo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\formula consumo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\bin\Debug\formula consumo.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\bin\Debug\formula consumo.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\formula consumo.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\15\15\obj\x86\Debug\formula consumo.application

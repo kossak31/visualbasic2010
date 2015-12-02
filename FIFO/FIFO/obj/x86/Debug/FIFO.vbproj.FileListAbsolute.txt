@@ -1,0 +1,11 @@
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\bin\Debug\FIFO.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\bin\Debug\FIFO.pdb
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\bin\Debug\FIFO.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\FIFO.Form1.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\FIFO.Resources.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\FIFO.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\FIFO.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\FIFO\FIFO\obj\x86\Debug\FIFO.pdb

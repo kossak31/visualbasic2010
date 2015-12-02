@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="ProgressBar.exe" version="1.0.0.0" publicKeyToken="63e6c4f6fe20832b" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ProgressBar" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="ProgressBar.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProgressBar.exe" size="20992">
+      <assemblyIdentity name="ProgressBar" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>lbg0m1PS8zAthpcveWB/Dym5/M0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=CAT\Administrator" issuerKeyHash="b1a8fdd60610327a182d8dd25cdb1fa4bb213267" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>W7BPViNnvfCzkv0tcDFal9NaVM8=</DigestValue></Reference></SignedInfo><SignatureValue>wW1RzcEXVBe8266WrevUO6p9crJwmgvZw4QHQx7lLkxI/Xh4r+ZkqNnExJYgJh8G16uJSOTtQZCtcXDFpVCM3KAlQbaAAYyJyTQ9XMPMFQczvI23QeD1KRm5FjRnESUOVRxFxIHyfsxy/oVnytFFO61zwRoMfhPGTO8qb3A0ViY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1L+uThvpt6rbfOKfb6DIy/Yuy03fid0ChrhW+QkGInVYsFiUJI7IOMPpThjPQVnBuqkJbu77XtUkCkQFlVvj/HY2p8Q5izp3wadI2glSOmjAtffo2uQIOEUzXDM5E+Zbx4ZUzHSo8S0PVXG5gDp/yAmu21Q8GYyBTFtVixppuvk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cf545ad3975a31702dfd92b3f0bd6723564fb05b" Description="" Url=""><as:assemblyIdentity name="ProgressBar.exe" version="1.0.0.0" publicKeyToken="63e6c4f6fe20832b" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CAT\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>D/vkPR7H6Wqbf28Fo4s1qzoiqWI=</DigestValue></Reference></SignedInfo><SignatureValue>Na7oEY2VMSKv0IhAXiWK+s2tFBv3vZx+zAgHg3I84xm3y4QQaZQCleFThdzw5yYLV/7uHfa099y4HmtPIawIv22XRI4MUK7A+lQSMKSYMaNxEWUpJnXacpKXiwLqo1hlf1HZXJDlburJjiyQPbujxAMy3IhIu2ybFamjnutKwRI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1L+uThvpt6rbfOKfb6DIy/Yuy03fid0ChrhW+QkGInVYsFiUJI7IOMPpThjPQVnBuqkJbu77XtUkCkQFlVvj/HY2p8Q5izp3wadI2glSOmjAtffo2uQIOEUzXDM5E+Zbx4ZUzHSo8S0PVXG5gDp/yAmu21Q8GYyBTFtVixppuvk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAUKgAwIBAgIQIy1kfBVB67VDubfdVskRnDAJBgUrDgMCHQUAMC0xKzApBgNVBAMeIgBDAEEAVABcAEEAZABtAGkAbgBpAHMAdAByAGEAdABvAHIwHhcNMTMwNjAyMTk1ODM4WhcNMTQwNjAzMDE1ODM4WjAtMSswKQYDVQQDHiIAQwBBAFQAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUv65OG+m3qtt84p9voMjL9i7LTd+J3QKGuFb5CQYidViwWJQkjsg4w+lOGM9BWcG6qQlu7vte1SQKRAWVW+P8djanxDmLOnfBp0jaCVI6aMC19+ja5Ag4RTNcMzkT5lvHhlTMdKjxLQ9VcbmAOn/ICa7bVDwZjIFMW1WLGmm6+QIDAQABMAkGBSsOAwIdBQADgYEAw4mNgUnazQCTBlRLO+LbCTsIvODzm0FPSyBeOHq07INrTYMI6omYYvJDs+Cp3B3QjwVMGxQLcydCsu25X6/zqhxdU/aOVAUbmdIhY2g0xb/Zj2XShIBY+8C2n15dAo7niZd6+eV8qOUC/nmjgOZ84VvOcUcLUz619qu4UbXtMBY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

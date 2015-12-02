@@ -1,0 +1,11 @@
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\_42.Form1.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\_42.Resources.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\bin\Debug\42.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\bin\Debug\42.pdb
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\bin\Debug\42.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\42.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\42.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\manuseamento de matrizes\42\obj\x86\Debug\42.pdb

@@ -1,0 +1,22 @@
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\29\29\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\29\29\obj\x86\Debug\_29.Form1.resources
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\29\29\obj\x86\Debug\_29.Resources.resources
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\29\29\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\peter\os meus documentos\visual studio 2010\Projects\29\29\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\29\29\bin\Debug\29.exe
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\29\29\bin\Debug\29.pdb
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\29\29\bin\Debug\29.xml
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\29\29\obj\x86\Debug\29.exe
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\29\29\obj\x86\Debug\29.xml
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\29\29\obj\x86\Debug\29.pdb
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\29.exe
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\29.xml
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\29.pdb
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\bin\Debug\29.exe
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\bin\Debug\29.pdb
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\bin\Debug\29.xml
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\_29.Form1.resources
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\_29.Resources.resources
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\29\29\obj\x86\Debug\GenerateResource.write.1.tlog

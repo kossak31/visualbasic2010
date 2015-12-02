@@ -1,0 +1,12 @@
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\ctc.Form1.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\ctc.Resources.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\bin\Debug\BDctc.sdf
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\bin\Debug\ctc.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\bin\Debug\ctc.pdb
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\bin\Debug\ctc.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\ctc.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\ctc.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\centro tropas comando\ctc\obj\x86\Debug\ctc.pdb

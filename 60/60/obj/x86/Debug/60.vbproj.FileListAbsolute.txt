@@ -1,0 +1,14 @@
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\60\60\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\60\60\obj\x86\Debug\_60.frmMain.resources
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\60\60\obj\x86\Debug\_60.frmbancos.resources
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\60\60\obj\x86\Debug\_60.Resources.resources
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\60\60\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\60\60\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\60\60\bin\Debug\60.exe.config
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\60\60\bin\Debug\BDbanco.sdf
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\60\60\bin\Debug\60.exe
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\60\60\bin\Debug\60.pdb
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\60\60\bin\Debug\60.xml
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\60\60\obj\x86\Debug\60.exe
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\60\60\obj\x86\Debug\60.xml
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\60\60\obj\x86\Debug\60.pdb

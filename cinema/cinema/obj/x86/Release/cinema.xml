@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cinema
+</name>
+</assembly>
+<members>
+<member name="P:cinema.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:cinema.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:cinema.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.BilheteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.UtilizadorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.BilheteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.UtilizadorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.BilheteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.UtilizadorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSetTableAdapters.BilheteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSetTableAdapters.UtilizadorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSetTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(cinema.bdbilhetesbetaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(cinema.bdbilhetesbetaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(cinema.bdbilhetesbetaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager.UpdateAll(cinema.bdbilhetesbetaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:cinema.bdbilhetesbetaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

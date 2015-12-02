@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="formula consumo.exe" version="1.0.0.0" publicKeyToken="f35bef99e356cf6d" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="formula consumo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="formula consumo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="formula consumo.exe" size="24064">
+      <assemblyIdentity name="formula consumo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>O1sY+PhCVyZj1f2aKupRoqYD1fY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=CAT\Administrator" issuerKeyHash="ccdab9efc93ba9d221c6ce6e152f2c298d97b8c0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7J2Sw8RCO+3TsURjLromcNOCFN8=</DigestValue></Reference></SignedInfo><SignatureValue>PyE+Denu9fqaD2QzT7myu7GEuwj/eQzIaVaWdBQYmUwrqZiwo1DimochOs1iuDY9AVM/UCTXAHc4reTfpatwc7F22FvtpV93DqOrFrExoqgQb1n/EnA3PsULYyPvItQNg94+0gSxYJTyFnikex6UW1mA4jNgDIThwj2GRG0hgUk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>u6RuZ1c1/IqQjuc2/fdmad4mRadwSxuD7oFchIio2osuZaB/mg5tPctXeVQbmgSwYlKb8/YLXMPG7YQGS3Zvw0GqeKi+h1jff6bmp713K4geSAztErjXnVx9RPa/94Ba9Ts4FFz+rlEWojfX+RPGJXRXJb/wlms5Vke1SzsDiZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="df1482d37026ba2e6344b1d3ed3b42c4c3929dec" Description="" Url=""><as:assemblyIdentity name="formula consumo.exe" version="1.0.0.0" publicKeyToken="f35bef99e356cf6d" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CAT\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pWPY3tmLDzqHSCO5A/PpqZ7iJB4=</DigestValue></Reference></SignedInfo><SignatureValue>Icmj5++IH1xGN1npQBcUdLDuaz8bqS6AUct1T0USLbyxam2qvNPxC1GVr4YaHSRqud6Q6+cUdKoaq5zycuE1JZe2kkvcm07vW4q029BMo7tOQoyV7Xjbvwc+bKl5oktJ+fC+keiqZif+VmIM09X0hoXuZKKgIZGi+HqflYCFCFI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>u6RuZ1c1/IqQjuc2/fdmad4mRadwSxuD7oFchIio2osuZaB/mg5tPctXeVQbmgSwYlKb8/YLXMPG7YQGS3Zvw0GqeKi+h1jff6bmp713K4geSAztErjXnVx9RPa/94Ba9Ts4FFz+rlEWojfX+RPGJXRXJb/wlms5Vke1SzsDiZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAUKgAwIBAgIQUXnCUd015alLYA64wGjLqjAJBgUrDgMCHQUAMC0xKzApBgNVBAMeIgBDAEEAVABcAEEAZABtAGkAbgBpAHMAdAByAGEAdABvAHIwHhcNMTMwNjAyMTk1MjQ4WhcNMTQwNjAzMDE1MjQ4WjAtMSswKQYDVQQDHiIAQwBBAFQAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7pG5nVzX8ipCO5zb992Zp3iZFp3BLG4PugVyEiKjaiy5loH+aDm09y1d5VBuaBLBiUpvz9gtcw8bthAZLdm/DQap4qL6HWN9/puanvXcriB5IDO0SuNedXH1E9r/3gFr1OzgUXP6uURaiN9f5E8YldFclv/CWazlWR7VLOwOJmQIDAQABMAkGBSsOAwIdBQADgYEAGDyosBNTPM8DKR5tVnrCMrfAeDlBYp797t/Q405toHaicIwRlP/r4xZPg+9CsJXdUpbuqRXKxcnFDOqdtyEo7mRe8SGsWTmZWi99v4xC/vZdSJGRJ+Yc5niy+5dHQaDTwMD9SRxbqcT6sr1iW1dPRgOFolhHnttEm5A8zZRDIDA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

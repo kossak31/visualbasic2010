@@ -1,0 +1,11 @@
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\bin\Release\geniplist.exe
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\bin\Release\geniplist.pdb
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\bin\Release\geniplist.xml
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\geniplist.Form1.resources
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\geniplist.Resources.resources
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\geniplist.exe
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\geniplist.xml
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\geniplist\geniplist\obj\x86\Release\geniplist.pdb

@@ -1,0 +1,13 @@
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\bin\Debug\61.exe.config
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\bin\Debug\bd.sdf
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\bin\Debug\61.exe
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\bin\Debug\61.pdb
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\bin\Debug\61.xml
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\_61.Form1.resources
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\_61.Resources.resources
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\61.exe
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\61.xml
+C:\Documents and Settings\peter\my documents\visual studio 2010\Projects\61\61\obj\x86\Debug\61.pdb

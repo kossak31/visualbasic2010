@@ -1,0 +1,15 @@
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\bin\Debug\27.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\bin\Debug\27.pdb
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\bin\Debug\27.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\_27.Form1.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\_27.Resources.resources
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\27.exe
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\27.xml
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\27.pdb
+c:\documents and settings\peter\my documents\visual studio 2010\Projects\27\27\obj\x86\Debug\_27.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\27\27\obj\x86\Debug\27.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\27\27\obj\x86\Debug\27.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\27\27\obj\x86\Debug\27.pdb

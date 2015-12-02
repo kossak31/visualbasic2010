@@ -1,0 +1,54 @@
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.exe
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.pdb
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.xml
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmPrincipal.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.exe
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.xml
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.pdb
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmSocios.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\bin\Debug\Database.sdf
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.exe.config
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmTodosSocios.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmCoordenadores.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmMonitores.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmSistema.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmQuotas.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmLstQuotas.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmContaCorrente.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmTurmas.resources
+D:\Paulo Marques\Projecto Livro VB\LIVRO\exercicios\ProjectoVB2010express\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmActividadesSocio.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.exe.config
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.exe
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.xml
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.pdb
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\bin\Debug\Database.sdf
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.exe
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.pdb
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.xml
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmActividadesSocio.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmContaCorrente.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmCoordenadores.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmLstQuotas.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmMonitores.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmPrincipal.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmQuotas.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmSistema.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmSocios.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmTodosSocios.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.FrmTurmas.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\peter\Os meus documentos\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.exe.config
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.exe
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.xml
+C:\Documents and Settings\peter\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\bin\Debug\ProjectoVB2010express.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ProjectoVB2010\ProjectoVB2010express\obj\x86\Debug\ProjectoVB2010express.pdb

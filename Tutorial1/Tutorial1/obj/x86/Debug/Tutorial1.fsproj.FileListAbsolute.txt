@@ -1,0 +1,6 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tutorial1\Tutorial1\bin\Debug\Tutorial1.XML
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tutorial1\Tutorial1\obj\x86\Debug\Tutorial1.pdb
